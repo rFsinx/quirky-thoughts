@@ -3,7 +3,7 @@ random math/physics-related gathering
 
 ## Physics: C
 
-Self-study notes for AP Physics C, written in Grade 11. A few small diagrams were adapted from online sources.
+Self-study notes for AP Physics C, mainly written in Grade 11. A few small diagrams were adapted from online sources.
 
 <p align="center">
   <img src="∑ physC-01.jpg" alt="aa" width="75%">
