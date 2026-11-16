@@ -51,9 +51,9 @@ random math/physics-related gathering
 </p>
 
 <p align="center">
-  <img src="∑ physC-13.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-13.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
-  <img src="∑ physC-14.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-14.jpg" alt="aa" width="75%">
 </p>
