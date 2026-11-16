@@ -1,20 +1,21 @@
 # quirky-thoughts
 random math/physics-related gathering
 
+## Physics: C
 <p align="center">
-  <img src="∑ physC-01.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-01.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
-  <img src="∑ physC-02.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-02.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
-  <img src="∑ physC-03.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-03.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
-  <img src="∑ physC-04.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-04.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
@@ -22,31 +23,31 @@ random math/physics-related gathering
 </p>
 
 <p align="center">
-  <img src="∑ physC-06.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-06.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
-  <img src="∑ physC-07.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-07.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
-  <img src="∑ physC-08.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-08.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
-  <img src="∑ physC-09.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-09.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
-  <img src="∑ physC-10.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-10.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
-  <img src="∑ physC-11.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-11.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
-  <img src="∑ physC-12.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-12.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
