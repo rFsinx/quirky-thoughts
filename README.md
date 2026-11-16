@@ -19,7 +19,7 @@ random math/physics-related gathering
 </p>
 
 <p align="center">
-  <img src="∑ physC-05.jpg.jpg" alt="aa" width="75%">
+  <img src="∑ physC-05.jpg" alt="aa" width="75%">
 </p>
 
 <p align="center">
