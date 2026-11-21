@@ -60,3 +60,7 @@ Self-study notes for AP Physics C, mainly written in Grade 11. A few small diagr
 <p align="center">
   <img src="∑ physC-14.jpg" alt="aa" width="75%">
 </p>
+
+## Monad (hyperreal number)
+
+
