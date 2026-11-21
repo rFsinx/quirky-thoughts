@@ -5,7 +5,7 @@ random math/physics-related gathering
 ## Monad (hyperreal number)
 
 <p align="center">
-  <img src="∑ monad.jpg" alt="aa" width="75%">
+  <img src="monad.jpg" alt="aa" width="75%">
 </p>
 
 ## Physics: C
