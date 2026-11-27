@@ -2,7 +2,7 @@
 random math/physics-related gathering
 
 
-## Monad (hyperreal number)
+## Infinitesimals and Monads
 
 <p align="center">
   <img src="monad.jpg" alt="aa" width="75%">
